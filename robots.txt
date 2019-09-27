@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://asahyaxeom.universion.se/sitemap.xml
